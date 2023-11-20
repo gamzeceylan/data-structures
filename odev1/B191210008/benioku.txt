@@ -1,0 +1,1 @@
+Hocam Sayilar.txt'yi doc içine koyulacak şekilde path verdim.
